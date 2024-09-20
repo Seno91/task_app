@@ -1,5 +1,7 @@
 include: package:flutter_lints/flutter.yaml
 analyzer:
+  errors:
+    prefer_const_constructors: ignore
   exclude: ["**/*.g.dart", "**/*.freezed.dart", lib/generated/**, mason/**]
   # plugins:
     # - custom_lint
