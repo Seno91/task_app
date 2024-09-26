@@ -9,8 +9,8 @@ class S4534 extends StatelessWidget {
         Text("App"),
         SizedBox(
           width: 64,
-          child: Text("Akademie"),
         ),
+        Text("Akadamie")
       ],
     );
   }
